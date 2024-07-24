@@ -35,11 +35,11 @@ header p {
 
 main {
     
-    padding: 40px 150px;
+    padding: 40px 0;
 }
 
 section {
-    padding: 40px 150px;
+    padding: 40px 0;
 }
 
 .book-details {
